@@ -2,7 +2,7 @@
 
 #### 介绍
 
-![image](https://s7.ezgif.com/tmp/ezgif-7b5c011e64151d89.gif)
+![image](https://github.com/dogbear-china/Graphic_works/blob/main/work%201/%E6%BC%94%E7%A4%BA.gif)
 
 本项目是计算机图像学课程作业，基于 Taichi 框架实现 GPU 并行加速的万有引力粒子群交互仿真，结合图形学实时渲染与物理引擎基础，实现粒子的引力运动、边界碰撞、鼠标交互等核心效果，完成图像学中并行计算与实时可视化的实践要求。
 
