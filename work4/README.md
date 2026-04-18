@@ -4,7 +4,7 @@
 
 ##  效果展示
 
-![渲染效果示例](screenshot.png)
+![image](https://github.com/dogbear-china/Graphic_works/blob/main/work4/ezgif-3eff88672582bb22.gif)
 
 *上图展示了程序运行时的典型渲染效果，左侧为红色球体，右侧为紫色圆锥。*
 
