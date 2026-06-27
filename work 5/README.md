@@ -4,6 +4,8 @@
 
 本实验基于 **Taichi GPU** 实现了一个简易的 **Whitted-Style Ray Tracing（Whitted 风格光线追踪）** 渲染器。
 
+![实验结果](https://github.com/dogbear-china/Graphic_works/blob/main/work%205/ezgif-26137e57b42faf54.gif)
+
 实验完成了以下功能：
 
 - 无限大平面（棋盘格纹理）
