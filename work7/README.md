@@ -3,7 +3,7 @@
 本项目使用 [Taichi](https://www.taichi-lang.org/) 实现一个简单的可微渲染示例：通过渲染一个 Lambertian 漫反射球体，并使用自动微分与 Adam 优化器，反向优化三维光源位置，使当前渲染图像逐步逼近目标参考图像。
 
 程序运行后会打开一个 GUI 窗口：
-！[渲染结果](https://github.com/dogbear-china/Graphic_works/blob/main/work7/ezgif-89610a5a9f454dec.gif)
+![渲染结果](https://github.com/dogbear-china/Graphic_works/blob/main/work7/ezgif-89610a5a9f454dec.gif)
 # Taichi 布料质点弹簧仿真
 
 - 左侧：目标图像，即由预设目标光源位置生成的 Ground Truth。
