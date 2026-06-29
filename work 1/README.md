@@ -1,5 +1,5 @@
 # 计算机图像学作业
-
+#熊海昕 202411081109 计算机科学与技术
 #### 介绍
 
 ![image](https://github.com/dogbear-china/Graphic_works/blob/main/work%201/%E6%BC%94%E7%A4%BA.gif)
