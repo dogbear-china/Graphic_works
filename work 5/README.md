@@ -1,5 +1,5 @@
 # 基于 Taichi GPU 的 Whitted-Style 光线追踪实验
-
+# 熊海昕 202411081109 计算机科学与技术
 ## 一、实验简介
 
 本实验基于 **Taichi GPU** 实现了一个简易的 **Whitted-Style Ray Tracing（Whitted 风格光线追踪）** 渲染器。
