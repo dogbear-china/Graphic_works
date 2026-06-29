@@ -1,4 +1,5 @@
 # 基于 Taichi 的高性能贝塞尔曲线实时绘制系统
+# 熊海昕 202411081109 计算机科学与技术
 ![image](https://github.com/dogbear-china/Graphic_works/blob/main/work3/ezgif-575e8b2579c91671.gif)
 
 ## 文件名称
