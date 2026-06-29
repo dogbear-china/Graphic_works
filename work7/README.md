@@ -1,5 +1,5 @@
 # Differentiable Rendering 光源位置优化示例
-
+# 熊海昕 202411081109 计算机科学与技术
 本项目使用 [Taichi](https://www.taichi-lang.org/) 实现一个简单的可微渲染示例：通过渲染一个 Lambertian 漫反射球体，并使用自动微分与 Adam 优化器，反向优化三维光源位置，使当前渲染图像逐步逼近目标参考图像。
 
 程序运行后会打开一个 GUI 窗口：
