@@ -8,7 +8,7 @@
 - 右侧：当前优化中的渲染结果。
 
 随着迭代进行，右侧图像会逐渐接近左侧目标图像，同时终端会输出 Loss 和当前光源坐标。
-
+![图像渲染](https://github.com/dogbear-china/Graphic_works/blob/main/work%206/ezgif-573e4e5724f5bafb.gif)
 ## 功能特点
 
 - 使用 Taichi CPU 后端，便于跨平台运行。
