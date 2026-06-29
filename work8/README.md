@@ -1,5 +1,5 @@
 # SMPL Linear Blend Skinning (LBS) Visualization
-
+# 熊海昕 202411081109 计算机科学与技术
 ## 项目简介
 
 本项目基于 **SMPL (Skinned Multi-Person Linear Model)** 人体模型，手动实现并可视化 **Linear Blend Skinning (LBS)** 的完整计算流程，同时与 `smplx` 官方实现进行数值验证。
